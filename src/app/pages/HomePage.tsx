@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Link } from "react-router-dom";
 import { ArrowLeft, Package, Award, TrendingUp } from "lucide-react";
-import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { ImageWithFallback } from "../components/media/ImageWithFallback";
 import { products } from "../../data/products";
 
 export function HomePage() {

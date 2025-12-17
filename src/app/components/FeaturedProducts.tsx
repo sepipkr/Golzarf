@@ -1,5 +1,5 @@
 import { ArrowLeft } from "lucide-react";
-import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { ImageWithFallback } from "./media/ImageWithFallback";
 
 const products = [
   {

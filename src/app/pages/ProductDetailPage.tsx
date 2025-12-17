@@ -2,7 +2,7 @@ import { useParams, Link, useNavigate } from "react-router-dom";
 import { motion } from "motion/react";
 import { ArrowRight, Phone, MessageSquare, Copy, Check } from "lucide-react";
 import { useState } from "react";
-import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { ImageWithFallback } from "../components/media/ImageWithFallback";
 import { products } from "../../data/products";
 
 export function ProductDetailPage() {

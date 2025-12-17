@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { motion } from "motion/react";
 import { Search, Grid3x3, List, Filter } from "lucide-react";
-import { ImageWithFallback } from "../components/figma/ImageWithFallback";
+import { ImageWithFallback } from "../components/media/ImageWithFallback";
 import { products, categories, Product } from "../../data/products";
 
 export function ProductsPage() {
